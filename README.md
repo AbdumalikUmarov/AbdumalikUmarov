@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @AbdumalikUmarov
-- 👀 I’m interested in Cybersecurity and Data Science
-- 🌱 I’m currently learning Data Science and Cybersecurity
 - 📫 How to reach me: umarovabdumalik550@gmail.com
 
 <!---
